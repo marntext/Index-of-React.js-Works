@@ -7,7 +7,7 @@
   |MKR-3    |ChartJs| [Repository](https://github.com/marntext/chartjs)|<img src="img/chartjs.jpg" height="200" width="350">|
   |MKR-4    |Movie App| [Repository](https://github.com/marntext/Movi-App)|<img src="img/MovieApp.gif" height="300">|
   |MKR-5    |Meals App| [Repository](https://github.com/marntext/mealsApp)|<img src="img/Meals.gif" height="300">|
-  |MKR-6    |Product Detail| Loading...||
+  |MKR-6    |Product Detail| [Repository](https://github.com/marntext/productDetail)|<img src="img/ProductDetail.gif" height="300">|
   |Cs-101120|Components | [Repository](https://github.com/marntext/Components)| |
   |Cs-121120|Styling in React | [Repository](https://github.com/marntext/Styling-in-React)| |
   |Cs-151120|Hooks | [Repository](https://github.com/marntext/Hooks)| |
